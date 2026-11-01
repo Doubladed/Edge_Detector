@@ -1,8 +1,6 @@
 # Edge Detector
 
-Edge detector that detects positive, negative, and any edges between clock cycles.
-
-It does not detect multiple edges occurring within a single clock cycle.
+Edge detector that detects positive, negative, and any edges between clock cycles. It does not detect multiple edges occurring within a single clock cycle.
 
 ## How it works
 
