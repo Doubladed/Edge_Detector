@@ -1,0 +1,7 @@
+# Generated simulation files
+/csrc/
+/DVEfiles/
+/simv.daidir/
+/simv
+/ucli.key
+*.vpd
